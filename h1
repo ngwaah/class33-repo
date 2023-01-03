@@ -1,0 +1,11 @@
+https://github.com/chanakaudaya/solution-architecture-patterns
+
+It will take a moment to fork the repository to your GitHub account or organization that you select when forking…
+
+2. Click on the “Code” button and copy the clone URL
+
+3. Install the “Git” CLI tool in your workstation (laptop, desktop, VM) if you have not installed it yet.
+
+4. Clone the forked repository by executing the below command
+
+git clone git@github.com:<username>/solution-architecture-patterns.git
